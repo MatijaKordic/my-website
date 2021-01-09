@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-Now editing on branch update-readme
-
-Updated on local repository
+Made some changes for rebase
